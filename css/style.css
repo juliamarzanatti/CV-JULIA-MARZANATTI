@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: #e5e5e5;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.cv-header{
+    background-color: #11b37c;
+    height: 300px;
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.cv-name{
+    margin: 0;
+}
+
+.icons{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    justify-content:right;
+    align-content: space-between;
+}
+
+a{
+    color: white;
+}
+
+.fa-brands{
+    padding: 10px;
+}
+
+.middle{
+    background-color: white;
+    padding-right: 1000px;
+}
