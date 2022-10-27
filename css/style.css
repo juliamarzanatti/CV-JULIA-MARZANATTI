@@ -39,5 +39,6 @@ a{
 
 .middle{
     background-color: white;
-    padding-right: 1000px;
+    width: 800px;
+    height: 300px;
 }
