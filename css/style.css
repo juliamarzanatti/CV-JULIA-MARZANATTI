@@ -13,6 +13,7 @@ body {
     padding-top: 50px;
     padding-left: 200px;
     padding-right: 200px;
+    box-sizing: border-box;
 }
 
 .cv-name{
@@ -41,4 +42,12 @@ a{
     background-color: white;
     width: 800px;
     height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.conteudo{
+    color: black;
 }
